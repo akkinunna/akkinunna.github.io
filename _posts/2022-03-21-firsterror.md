@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "깃헙 블로그 생성 오류 버그 잡기"
+
 ---
 
 #깃헙 _config.yml 오류 수정해 블로그 이름 바꾸기 
